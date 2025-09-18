@@ -1,0 +1,110 @@
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Primary Meta Tags -->
+    <title>Spacecoin: The world's first DePIN powered by satellites</title>
+    <meta name="title" content="Spacecoin: The world's first DePIN powered by satellites">
+    <meta name="description" content="The world's first DePIN powered by satellites." />
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="initial-scale=1.0,user-scalable=no,maximum-scale=1,width=device-width">
+
+    <meta http-equiv="Content-Security-Policy" 
+      content="
+        default-src 'self';
+        script-src 'self' 'unsafe-inline' https://www.google.com https://www.googletagmanager.com https://www.gstatic.com https://cdn.usefathom.com;
+        connect-src 'self'
+          https://cdn.usefathom.com
+          https://ipv4-check-perf.radar.cloudflare.com
+          https://inhousedashboard-test-app.azurewebsites.net
+          https://inhousedashboard-staging-app.azurewebsites.net
+          https://inhousedashboard-prod-app.azurewebsites.net
+          https://gpromotion-api-prod.azurewebsites.net
+          https://api-test.creditcoin.org
+          https://api-staging.creditcoin.org
+          https://api.creditcoin.org
+          https://www.google-analytics.com
+          https://pulse.walletconnect.org
+          https://metamask-sdk.api.cx.metamask.io
+          https://api.web3modal.org
+          https://mainnet-test-proxy-rpc.creditcoin.network
+          https://mainnet3.creditcoin.network;
+        style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;
+        font-src 'self' https://gluwapublicmedia.blob.core.windows.net;
+        img-src * data: blob:;">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://spacecoin.org">
+    <meta property="og:title" content="Spacecoin: The world's first DePIN powered by satellites">
+    <meta property="og:description" content="The world's first DePIN powered by satellites." />
+    <meta property="og:image" content="https://files.gluwa.com/media/meta/spacecoin-org/20241030/meta-image.png">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://spacecoin.org">
+    <meta property="twitter:title" content="Spacecoin: The world's first DePIN powered by satellites">
+    <meta property="twitter:description" content="The world's first DePIN powered by satellites." />
+    <meta property="twitter:image" content="https://files.gluwa.com/media/meta/spacecoin-org/20241030/meta-image.png">
+
+    <link rel="canonical" href="https://spacecoin.org" />
+    <!-- favicon -->
+    <link rel="apple-touch-icon" sizes="57x57" href="https://files.gluwa.com/media/meta/spacecoin-org/20241030/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="https://files.gluwa.com/media/meta/spacecoin-org/20241030/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="https://files.gluwa.com/media/meta/spacecoin-org/20241030/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="https://files.gluwa.com/media/meta/spacecoin-org/20241030/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="https://files.gluwa.com/media/meta/spacecoin-org/20241030/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="https://files.gluwa.com/media/meta/spacecoin-org/20241030/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="https://files.gluwa.com/media/meta/spacecoin-org/20241030/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="https://files.gluwa.com/media/meta/spacecoin-org/20241030/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://files.gluwa.com/media/meta/spacecoin-org/20241030/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="https://files.gluwa.com/media/meta/spacecoin-org/20241030/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://files.gluwa.com/media/meta/spacecoin-org/20241030/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="https://files.gluwa.com/media/meta/spacecoin-org/20241030/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://files.gluwa.com/media/meta/spacecoin-org/20241030/favicon-16x16.png">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="https://files.gluwa.com/media/meta/spacecoin-org/20241030/ms-icon-144x144.png">
+    <meta name="theme-color" content="#000000">
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-5LFV8948');</script>
+    <!-- End Google Tag Manager -->
+
+    <!-- TODO : build 후 체크-->
+    <!-- Google Recaptcha -->
+    <script src="https://www.google.com/recaptcha/enterprise.js" defer></script>
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "Spacecoin",
+        "description": "The world's first DePIN powered by satellites",
+        "url": "https://spacecoin.org",
+        "logo": "https://spacecoin.org/images/logo.png",
+        "sameAs": [
+          "https://x.com/_spacecoin",
+          "https://t.me/Spacecoin_org",
+          "https://t.me/Spacecoin_Group",
+          "https://medium.com/@_spacecoin"
+        ]
+      }
+      </script>
+    <script type="module" crossorigin src="/assets/main-lPoiHKxO.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/main-6sx-eFvd.css">
+  </head>
+  <body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5LFV8948"
+      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <div id="container"><div class="build"><header id="header" class=" " style="opacity: 1; visibility: visible;"><div class="inner"><h1><a href="/" class="logo"><i class="blind">Spacecoin</i></a></h1><button type="button" class="visual-toggle"><span></span></button><div class="nav"><nav><div class="dimmed"></div><a href="/" class="active"><span>Home</span></a><a href="/satellite-tracker" class=""><span>Satellite Tracker</span></a><a href="/airdrop"><span>Airdrop</span></a><div class="button-x"><a href="https://x.com/_spacecoin" target="_blank" rel="nofollow noopener noreferrer" title="Opens a new tab"><span>@_spacecoin</span></a></div></nav></div></div></header><div class="home"><section id="spot"><div id="earth" style="transform: translateY(0px);"><video class="pc-video" autoplay="" loop="" playsinline="" preload="auto"><source src="/assets/spacecoin_web-Zpfd9V_2.mp4" type="video/mp4">Your browser does not support the video tag.</video><video class="mobile-video" autoplay="" loop="" playsinline="" preload="auto"><source src="/assets/spacecoin_app-hh7lNpav.mp4" type="video/mp4">Your browser does not support the video tag.</video></div><section class="content" style="transform: translateY(0px);"><div class="inner"><h2>The World’s First DePIN <span>Powered By Satellites</span></h2><p>Our decentralized satellite constellation provides global 5G internet access to the 2.9 billion people who remain unconnected.</p><div class="button-area"><a href="#signUP">Join Launch List</a><a href="/white-paper" target="_blank" rel="nofollow noopener noreferrer" class="type2"><span>Read Whitepaper</span></a></div></div></section></section><div id="content"><section class="section connecting-he-unconnected"><div class="inner"><h3>Connecting <strong>The Unconnected</strong></h3><p>Spacecoin™ is the world’s first decentralized physical infrastructure network (DePIN) powered by blockchain-enabled LEO nanosatellite constellations, positioned to become the standard open protocol for trustless internet connectivity on a global scale - connecting everyone and everything. </p></div></section><section class="section why-spacecoin-matters" style="padding-bottom: 0px;"><div class="inner"><h3>Why Spacecoin™ Matters</h3><div class="box"><dl><dt>Physically Decentralized</dt><dd>By using a constellation of small LEO satellites to create a global 5G network, this physical decentralization eliminates reliance on central authorities, reducing censorship risks and service outages while ensuring coverage in remote areas.</dd></dl><dl><dt>Transparent &amp; Trustless</dt><dd>Blockchain technology powers Spacecoin’s decentralized network, enabling transparent satellite operations with smart contracts. It manages data transmissions securely on-chain, ensuring a trustless, scalable, and resilient system without a central authority.</dd></dl><dl><dt>Borderlessly Accessible</dt><dd>By enabling a blockchain-native system that allows users to pay network fees with cryptocurrency, it removes financial and country borders, even in regions with limited banking infrastructure.</dd></dl></div></div></section><div class="divider"></div><section class="section built-on-creditcoin" style="padding-top: 0px;"><div class="inner"><h3>Built on <strong>Creditcoin</strong></h3><p>Unlocking unique benefits with Creditcoin</p><div class="box"><dl><dt>Universal Smart Contract</dt><dd>With Creditcoin's built-in Universal Smart Contract layer, it enables Spacecoin™ users to pay their internet fees with on-chain assets across multiple networks, without the need for bridging, for a user-friendly experience.</dd></dl><dl><dt>Buy Now, Pay Later</dt><dd>Users can BNPL their internet fees through Credal, a flexible payment solution that can benefit individuals living in emerging markets.</dd></dl><dl><dt>On-Chain Credit</dt><dd>Unbanked users can build their on-chain credit profiles simply by using and paying for Spacecoin's internet. By building their credit profile, it opens up greater financial accessibility and opportunity.</dd></dl></div></div></section><section class="section tracking-satellites"><div class="inner title-area"><h3>Follow The Signal: <strong>Tracking Satellites</strong></h3><p>Explore the real-time journeys of our satellites around the globe.</p><a class="button-common" href="/satellite-tracker" data-discover="true"><span>See Full Screen</span></a></div><div class="video"><div class="inner"><video autoplay="" loop="" playsinline="" preload="auto"><source src="/assets/spacecoin_satellite-C_YSpJPi.mp4" type="video/mp4">Your browser does not support the video tag.</video></div></div></section><section class="section spacecoins-roadmap"><div class="inner"><h3>Spacecoin™'s Roadmap</h3><div class="roadmap"><dl class="item-2024"><dt>2024</dt><dd>Launch Spacecoin's first satellite, CTC-0, on SpaceX's Bandwagon-2 rocket to conduct a pilot test with partners in Africa and South Asia.</dd></dl><dl class="item-2025"><dt>2025</dt><dd>Launch additional satellites to conduct pilot tests across various frequency bands, secure more partners to drive market adoption and expansion, and prepare for a Q4 launch to start providing service to billions of unconnected people.</dd></dl><dl class="item-2026"><dt>2026</dt><dd>Continually expand coverage and prepare to introduce a service that enables users to launch their own satellites and join the network.</dd></dl></div></div></section><section id="signUP" class="section sign-up"><div class="inner"><h3>Sign Up For The Launch List!</h3><form action="https://gluwa.us19.list-manage.com/subscribe/post" method="POST" target="_blank" rel="nofollow noopener noreferrer"><input type="hidden" name="u" value="04ec8cbf196526ae0b321b30d"><input type="hidden" name="id" value="bb3a757c71"><input type="hidden" name="MERGE1" value="spacecoin.org"><input type="hidden" name="tags" value="9578170"><div class="email-form"><div class="email-input"><input type="email" class="inp" name="MERGE0" placeholder="Enter your email" value=""><button type="button" class="button-clear hidden"><i class="blind">Clear</i></button><input type="submit" class="button-submit" disabled="" value="Get Started"></div><div class="message"></div></div></form></div></section><section class="section sns-area"><div class="inner"><h3>Connect with <strong>Spacecoin™</strong></h3><div class="links"><a href="https://x.com/_spacecoin" target="_blank" rel="nofollow noopener noreferrer" title="Opens a new tab" class="link-twitter-x"><span>X</span></a><a href="https://discord.gg/spacecoin " target="_blank" rel="nofollow noopener noreferrer" title="Opens a new tab" class="link-discord"><span>Discord</span></a><a href="https://t.me/Spacecoin_org" target="_blank" rel="nofollow noopener noreferrer" title="Opens a new tab" class="link-telegram"><span>Telegram</span></a></div></div></section></div></div><footer id="footer"><div class="inner"><div class="logo"><h1><i class="blind">Spacecoin</i></h1><p>The World’s First DePIN Powered By Satellites</p></div><div class="email-area"><dl><dt>For partnership enquiries</dt><dd><a href="/cdn-cgi/l/email-protection#2757465553494255544f4e575467545746444244484e4909485540" target="_blank" rel="nofollow noopener noreferrer" class="mail" title="Email the Spacecoin partnerships team"><span><span class="__cf_email__" data-cfemail="c5b5a4b7b1aba0b7b6adacb5b685b6b5a4a6a0a6aaacabebaab7a2">[email&#160;protected]</span></span></a></dd><dt>To invest in Spacecoin™</dt><dd><a href="/cdn-cgi/l/email-protection#543d3a22312720142724353731373b3d3a7a3b2633" target="_blank" rel="nofollow noopener noreferrer" class="mail" title="Email the Spacecoin investment team"><span><span class="__cf_email__" data-cfemail="523b3c24372126122122333137313d3b3c7c3d2035">[email&#160;protected]</span></span></a></dd><dt>Follow on X</dt><dd><a href="https://x.com/_spacecoin" target="_blank" rel="nofollow noopener noreferrer" title="Opens a new tab" class="button-x"><span>@_spacecoin</span></a></dd></dl></div><p class="copyright">2025 Spacecoin™</p></div></footer></div></div>
+    <!-- Fathom - beautiful, simple website analytics -->
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://cdn.usefathom.com/script.js" data-site="SNVCKYYX" defer></script>
+    <!-- / Fathom -->
+  </body>
+</html>
