@@ -6,6 +6,13 @@
     <meta http-equiv="Content-Security-Policy" 
       content="
         default-src 'self';
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="initial-scale=1.0,user-scalable=no,maximum-scale=1,width=device-width">
+
+    <meta http-equiv="Content-Security-Policy" 
+      content="
+        default-src 'self';
         script-src 'self' 'unsafe-inline' https://www.google.com https://www.googletagmanager.com https://www.gstatic.com https://cdn.usefathom.com;
         connect-src 'self'
           https://cdn.usefathom.com
