@@ -1,15 +1,4 @@
 
-          https://ipv4-check-perf.radar.cloudflare.com
-          https://inhousedashboard-test-app.azurewebsites.net
-          https://inhousedashboard-staging-app.azurewebsites.net
-          https://inhousedashboard-prod-app.azurewebsites.net
-          https://gpromotion-api-prod.azurewebsites.net
-          https://api-test.creditcoin.org
-          https://api-staging.creditcoin.org
-          https://api.creditcoin.org
-          https://www.google-analytics.com
-          https://pulse.walletconnect.org
-          https://metamask-sdk.api.cx.metamask.io
           https://api.web3modal.org
           https://mainnet-test-proxy-rpc.creditcoin.network
           https://mainnet3.creditcoin.network;
