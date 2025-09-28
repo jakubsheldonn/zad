@@ -1,11 +1,4 @@
 
-          https://api.web3modal.org
-          https://mainnet-test-proxy-rpc.creditcoin.network
-          https://mainnet3.creditcoin.network;
-        style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;
-        font-src 'self' https://gluwapublicmedia.blob.core.windows.net;
-        img-src * data: blob:;">
-
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://spacecoin.org">
