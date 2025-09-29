@@ -1,11 +1,4 @@
 
-    <!-- Open Graph / Facebook -->
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="https://spacecoin.org">
-    <meta property="og:title" content="Spacecoin: The world's first DePIN powered by satellites">
-    <meta property="og:description" content="The world's first DePIN powered by satellites." />
-    <meta property="og:image" content="https://files.gluwa.com/media/meta/spacecoin-org/20241030/meta-image.png">
-
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://spacecoin.org">
