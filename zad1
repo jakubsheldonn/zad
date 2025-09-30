@@ -1,11 +1,4 @@
 
-    <!-- Twitter -->
-    <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="https://spacecoin.org">
-    <meta property="twitter:title" content="Spacecoin: The world's first DePIN powered by satellites">
-    <meta property="twitter:description" content="The world's first DePIN powered by satellites." />
-    <meta property="twitter:image" content="https://files.gluwa.com/media/meta/spacecoin-org/20241030/meta-image.png">
-
     <link rel="canonical" href="https://spacecoin.org" />
     <!-- favicon -->
     <link rel="apple-touch-icon" sizes="57x57" href="https://files.gluwa.com/media/meta/spacecoin-org/20241030/apple-icon-57x57.png">
